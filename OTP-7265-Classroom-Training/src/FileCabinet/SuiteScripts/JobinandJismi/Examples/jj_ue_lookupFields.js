@@ -29,12 +29,8 @@ define(['N/record', 'N/search'],
         columns : fields
     });
 
-    log.debug("Company Name is : "+lookupValue.companyname);
-    log.debug("Subsidiary name is : "+lookupValue.subsidiary);
-    log.debug("Company Name is : "+lookupValue.companyname);
-    log.debug("Subsidiary name is : "+lookupValue.subsidiary);
-
-
+   
+    
         }
 
         /**
